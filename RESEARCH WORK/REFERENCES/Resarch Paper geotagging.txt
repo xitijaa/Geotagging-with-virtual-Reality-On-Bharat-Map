@@ -1,0 +1,3 @@
+https://codebun.com/online-notice-board-project-in-java-using-jsp-servlet-and-mysql/
+https://forestry.denr.gov.ph/pdf/ref/Geotagging%20Manual%202013.pdf
+https://www.researchgate.net/publication/312221053_The_Use_of_Mobile_Geotag_Technology_in_Driving_Project_Performance_at_Scale
