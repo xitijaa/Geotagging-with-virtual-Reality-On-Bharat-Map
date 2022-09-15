@@ -1,0 +1,22 @@
+[1] Aseem Agarwala, Maneesh Agrawala, Michael Cohen, David Salesin, 
+and Richard Szeliski. 2006. Photographing long scenes with multi-
+viewpoint panoramas. In ACM SIGGRAPH 2006 Papers. 853–
+861.Google Scholar Digital Library
+
+[2] Luigi Bagnato, Pascal Frossard, and Pierre Vandergheynst. 2009. 
+Optical flow and depth from motion for omnidirectional images using a 
+tv-l1 variational framework on graphs. In 2009 16th IEEE International 
+Conference on Image Processing (ICIP). IEEE, 1469–1472. Google 
+Scholar Cross Ref
+
+[3] Werner Bailer, Christian Schober, and Georg Thallinger. 2006. Video 
+Content Browsing Based on Iterative Feature Clustering for Rushes 
+Exploitation. In TRECVID. Cite seer. Google Scholar.
+
+[4] Connelly Barnes, Dan B Goldman, Eli Shechtman, and Adam 
+Finkelstein. 2010. Video tapestries with continuous temporal zoom. In 
+ACM SIGGRAPH 2010 papers. 1–9. Google Scholar Digital Library
+[5] Wutthigrai Boonsuk, Stephen Gilbert, and Jonathan Kelly. 2012. The 
+impact of three interfaces for 360-degree video on spatial cognition.In 
+Proceedings of the SIGCHI conference on human factors in computing 
+systems. 2579–2588.
