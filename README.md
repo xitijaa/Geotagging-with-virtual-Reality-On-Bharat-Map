@@ -1,0 +1,2 @@
+# Geotagging-with-virtual-Reality-On-Bharat-Map
+This is web based application of all educational institution integrated with virtual tour on Bharat map, so that any student/ parent can visit any part of the country on map and take a virtual tour of any educational institutions they are interested in along with facility courses available across the country. We are using MongoDB, Express, React and NodeJS for back end and HTML/CSS for front end. 
